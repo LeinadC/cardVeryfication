@@ -1,0 +1,14 @@
+body{
+	margin: 0;
+}
+#container{
+	padding: 50px;
+}
+#input{
+	display: flex;
+	flex-direction: row;
+	margin-top: 15px;
+}
+#input > *{
+	padding: 5px;
+}
